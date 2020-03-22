@@ -1,0 +1,1128 @@
+/* ---------- MAX 1112PX ---------- */
+@media screen and (max-width:1112px) {
+
+
+}
+	
+/* ---------- MAX 1080PX ---------- */
+@media screen and (max-width:1080px) {
+
+}
+/* ---------- MAX 1024PX ---------- */
+@media screen and (max-width:1024px) {
+.carousel-caption i.fa-twitter {
+   margin-left:0px;
+}
+.carousel-caption img {
+  margin-bottom: 23px;
+  margin-right:40%;
+}
+
+
+
+
+}
+
+/* ---------- MAX 991PX ---------- */
+@media only screen and (max-width:991px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 19px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2{
+	text-align:center;}
+.product-img .title{
+	text-align:center;
+	margin-right:0px;}
+
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:147px;
+  width: 83%;
+  margin-top:45px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-114% !important;
+  margin-right: 1%;
+  margin-top:178px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left:32%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:39%;}
+.product-img{
+	margin-left:0px;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:40%;
+}
+footer p {
+  padding: 17px;
+}
+p.text-new {
+  padding-top:60px;
+  padding-left:15%;
+}
+.new .textbox-new {
+  height: 171px;
+}
+
+
+	
+
+
+
+}
+
+
+
+/* ---------- MAX 800PX ---------- */
+@media only screen and (max-width:800px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 8px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2{
+	text-align:center;}
+.product-img .title{
+	text-align:center;
+	margin-right:0px;}
+
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:107px;
+  width: 83%;
+  margin-top:45px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-114% !important;
+  margin-right: 1%;
+  margin-top:150px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left:30%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:42%;}
+.product-img{
+	margin-left:0px;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:40%;
+}
+footer p {
+  padding: 17px;
+}
+p.text-new {
+  padding-top: 50px;
+  padding-left: 6%;
+}
+.new .textbox-new {
+  height: 116px;
+}
+
+
+	
+
+}
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (max-width:768px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2{
+	text-align:center;}
+.product-img .title{
+	text-align:center;
+	margin-right:0px;}
+
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:100px;
+  width: 83%;
+  margin-top:39px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-114% !important;
+  margin-right: 1%;
+  margin-top:140px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left:39%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:42%;}
+.product-img{
+	margin-left:0px;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:40%;
+}
+footer p {
+  padding: 17px;
+}
+p.text-new {
+  padding-top: 50px;
+  padding-left: 6%;
+}
+.new .textbox-new {
+  height: 111px;
+}
+
+
+
+}
+
+
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (max-width:767px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2{
+	text-align:center;}
+.product-img .title{
+	text-align:center;
+	margin-right:48%;}
+
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:100px;
+  width: 83%;
+  margin-top:39px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-114% !important;
+  margin-right: 1%;
+  margin-top:140px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left:39%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:42%;}
+.product-img{
+	margin-left:32%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:40%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+
+
+}
+
+
+
+/* ---------- MAX 640PX ---------- */
+@media screen and (max-width:640px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2{
+	text-align:center;}
+.product-img .title{
+	text-align:center;
+	margin-right:40%;}
+
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:99px;
+  width: 83%;
+  margin-top:12px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-114% !important;
+  margin-right: 1%;
+  margin-top:100px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left:36%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:42%;}
+.product-img{
+	margin-left:31%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:40%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+
+
+}
+/* ---------- MAX 568PX ---------- */
+@media screen and (max-width:568px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2{
+	text-align:center;}
+.product-img .title{
+	text-align:center;
+	margin-right:33%;}
+
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:83px;
+  width: 83%;
+  margin-top:12px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-149% !important;
+  margin-right: 1%;
+  margin-top:86px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left:36%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:42%;}
+.product-img{
+	margin-left:28%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:40%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+	
+}
+
+/* ---------- MAX 480PX ---------- */
+@media screen and (max-width:480px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2{
+	text-align:center;}
+.product-img .title{
+	text-align:center;
+	margin-right:20%;}
+
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:66px;
+  width: 83%;
+  margin-top:12px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-114% !important;
+  margin-right: 1%;
+  margin-top:67px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left:31%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:37%;}
+.product-img{
+	margin-left:24%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:31%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+
+}
+/* ---------- MAX 414PX ---------- */
+@media screen and (max-width:414px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2,.product-img .title{
+	text-align:center;}
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:63px;
+  width: 83%;
+  margin-top:12px;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-114% !important;
+  margin-right: 1%;
+  margin-top:67px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left: 27%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:37%;}
+.product-img{
+	margin-left:19%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left:31%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+
+}
+/* ---------- MAX 375PX ---------- */
+@media screen and (max-width:375px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2,.product-img .title{
+	text-align:center;}
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:51px;
+  width: 83%;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-142% !important;
+  margin-right: 1%;
+  margin-top:56px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left: 27%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:37%;}
+.product-img{
+	margin-left:14%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 24%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+
+}
+
+
+
+/* ---------- MAX 360PX ---------- */
+@media screen and (max-width:360px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2,.product-img .title{
+	text-align:center;}
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom:51px;
+  width: 83%;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-139% !important;
+  margin-right: 1%;
+  margin-top:55px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left: 27%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:37%;}
+.product-img{
+	margin-left:14%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 24%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+
+
+}
+
+
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+.container{
+	width:100%;
+	padding-left:5%;
+	padding-right:5%;
+	}
+.main-menu .container{
+	padding-left:0px;
+	padding-right:0px;}
+.nav{
+	height:49px;}
+ul.dropdown a{
+	padding:10px 18px;
+	text-align:center;
+	}
+.pull-left{
+	float:none !important;}
+.latest h2,.latest-img h4,.latest-img p,.product h2,.product-img p.title{
+	text-align:center;}
+.carousel-caption {
+  top: -4px;
+  right: 16%;
+  left: 29%;
+}
+.carousel-caption img {
+  margin-bottom: 45px;
+  width: 83%;
+}
+.carousel-caption i.fa-twitter {
+  margin-left:-141% !important;
+  margin-right: 1%;
+  margin-top:50px;
+  padding: 6px 6px;
+}
+.carousel-caption i.fa-facebook {
+  padding: 6px 9px;
+}
+.fly h2{
+	margin-top:20px;
+	margin-bottom:8px;}
+.fly p{
+	margin-bottom:10px;}
+.fly h4{
+	margin-top:20px;}
+.fly h3{
+	margin-bottom:20px;}
+.latest {
+  margin-top: 30px;
+}
+.latest-img img {
+  margin-left: 23%;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.latest-btn{
+	margin-left:33%;}
+.product-img{
+	margin-left: 9%;
+	margin-top:15px;}
+.news {
+  height:auto; 
+  margin-top: 16px;
+}
+.news h1 {
+  margin-bottom:0px;
+  font-size: 17px;
+  padding: 10px 0px;
+}
+.contact input[type="email"]{
+	width:100%;
+	margin-left:0px;
+	margin-top:0px;}
+.news-btn {
+  font-size: 18px;
+  height:40px;
+  padding: 5px 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 24%;
+}
+footer p {
+  padding: 17px;
+}
+.new .textbox-new {
+  height: 170px;
+}
+p.text-new {
+  padding-top: 75px;
+  padding-left: 21%;
+}
+
+
+
+
+
+
+}
